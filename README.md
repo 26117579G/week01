@@ -18,7 +18,7 @@ That frustration wasn't about the tool being "bad." It was about me not knowing 
 
 # Why This Matters Now
 
-This idea connects to something we discussed in class. Dylan Beattie, in *The Art of Code*, describes programming not just as a tool for solving problems, but as a medium for expression. That reminds me of Don Ihde's idea of "technological mediation" — that technologies are never neutral. They shape how we perceive the world.
+This idea connects to something we discussed in class. [Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U), in *The Art of Code*, describes programming not just as a tool for solving problems, but as a medium for expression. That reminds me of [Don Ihde](https://en.wikipedia.org/wiki/Don_Ihde)'s idea of "technological mediation" — that technologies are never neutral. They shape how we perceive the world.
 
 If I only use pre-packaged tools without understanding how they work underneath, my creative vision is essentially limited by the frameworks those tools impose. A designer who understands code doesn't need to become an engineer. They just need a window into the "black box" — to know what's happening inside, and how to adjust it on their own terms.
 
@@ -27,3 +27,8 @@ This is also why I think the fact that "AI can write code" actually makes it mor
 # Conclusion
 
 So I'm here, not to become a programmer, and not out of fear of being replaced by technology. I'm here because I believe understanding the materials you work with is the most basic honesty a creator can have. Whether it's scissors, ovens, or code — tools change, but the habit of understanding your materials never goes out of style.
+
+# References
+
+Beattie, D. (2021). *The Art of Code* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
+Ihde, D. (1990). *Technology and the Lifeworld: From Garden to Earth*. Indiana University Press.
